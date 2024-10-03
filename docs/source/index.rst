@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Macnha - Nền tảng uy tín cập nhật tin tức thể thao nhanh chóng, chính xác
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Macnha <https://macnha.vn/>`_ là một nền tảng uy tín chuyên cung cấp tin tức thể thao được cập nhật liên tục, mang đến cho người chơi những thông tin chính xác và kịp thời nhất. Tại Macnha, người chơi có thể dễ dàng nắm bắt các sự kiện, kết quả trận đấu, lịch thi đấu, và những biến động trong làng thể thao toàn cầu. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Macnha cam kết mang đến những thông tin hữu ích và chất lượng, giúp người chơi theo dõi và cập nhật mọi tin tức mới nhất về các môn thể thao yêu thích một cách tiện lợi và hiệu quả.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: Bình Hưng Hòa, Thành Phố Hồ Chí Minh. 
 
-Contents
---------
+Phone: 0907030709. 
 
-.. toctree::
+Email: lienhe@macnha.vn. 
 
-   usage
-   api
+Website: https://macnha.vn/ 
+
+#macnha #trangchumacnha #dangkymacnha #linkmacnha #dangnhapmacnha
